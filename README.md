@@ -5,6 +5,6 @@ I'll try to increase its accuracy by using a extensive dataset and making tweaks
 
 
 To-do:
-resolve overfitting
-Increase accuracy
-implement it on a website
+1. Resolve overfitting
+2. Increase accuracy
+3. Implement it on a website
